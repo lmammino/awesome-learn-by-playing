@@ -41,11 +41,6 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Oh my git!](https://ohmygit.org/) \[FREE\]: An open source game about learning Git!
 
 
-## Python
-
-- [Robot Rumble](https://robotrumble.org/) \[FREE\]: Code robots, win matches, rank up.
-
-
 ## Ruby
 
 - [RubyWarrior](https://github.com/ryanb/ruby-warrior) \[FREE\]: Game written in Ruby for learning Ruby and artificial intelligence.
@@ -89,3 +84,4 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/) \[PAID 💸\]: A game where you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, logic gates, and LCD screens.
 - [Box256](http://box-256.com/) \[FREE\]: a 8-bit fantasy computer, with 256 bytes of memory, 16 color 16x16 display. It is also a programming game, where the player tries to pass the graphics tests and optimize the code to perfection.
 - [MHRD](https://store.steampowered.com/app/576030/MHRD/) \[PAID 💸\]: A hardware design game, in which you design various hardware circuits in a hardware description language.
+- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) \[PAID 💸\]: uses the concept of a corporate office worker assigned to perform tasks that involve moving objects between an inbox, an outbox, and to and from storage areas as a metaphor for assembly language concepts. 
