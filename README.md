@@ -41,6 +41,6 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 
 ## Security
-
+- [Tryhackme](https://tryhackme.com/) \[FREE WITH PREMIUM TIER\]: Learn all things security (pentesting, web security, system hardening) by completing hacking missions!
 ...
 
