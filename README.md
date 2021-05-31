@@ -69,6 +69,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Tryhackme](https://tryhackme.com/) \[FREE WITH PREMIUM TIER\]: Learn all things security (pentesting, web security, system hardening) by completing hacking missions!
 - [Hacker 101 Capture The Flag](https://ctf.hacker101.com/) \[FREE\]: game designed to let you learn to hack in a safe, rewarding environment.
 - [Hack the box](https://www.hackthebox.eu/) \[FREE\]: a dynamically growing hacking community and take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience!
+- [Embedded Security Capture The Flag](https://microcorruption.com/) \[FREE\]: You've been given access to a device that controls a lock. Your job: defeat the lock by exploiting bugs in the device's code.
 
 
 ## For kids
@@ -81,3 +82,5 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [NAND Game](https://nandgame.com/) \[FREE\]: You are going to build a computer starting from basic components. A great way to learn about computer architectures.
 - [Rogue bit](https://store.steampowered.com/app/949790/Rogue_Bit/) \[PAID 💸\]: You play the game as a single bit of computer memory. You can invade other bytes around you and thus modify their values. A puzzle game that will make you truly understand and appreciate low level concepts like bitwise operations and ASCII tables.
 - [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/) \[PAID 💸\]: A game where you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, logic gates, and LCD screens.
+- [Box256](http://box-256.com/) \[FREE\]: a 8-bit fantasy computer, with 256 bytes of memory, 16 color 16x16 display. It is also a programming game, where the player tries to pass the graphics tests and optimize the code to perfection.
+- [MHRD](https://store.steampowered.com/app/576030/MHRD/) \[PAID 💸\]: A hardware design game, in which you design various hardware circuits in a hardware description language.
