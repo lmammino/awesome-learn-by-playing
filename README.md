@@ -32,7 +32,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 ## HTML
 
-...
+- [Emmet Game](https://ahndohun.github.io/emmet-game/) \[FREE\]: Learn about CSS selectors and HTML in this guess game that uses [Emmet](https://docs.emmet.io/)
 
 
 ## VIM
