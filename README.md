@@ -28,6 +28,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) \[FREE\]: A text-based dungeon crawler where you progress with the aid of JavaScript.
 - [Code Monster](http://www.crunchzilla.com/code-monster) \[FREE\]: Learn the basic of JavaScript on the browser by helping a little monster.
 - [Service Workies](https://serviceworkies.com/) \[PAID 💸\]: Help Kolohe survive and defeat dragons as you learn the basics of PWAs (Progressive Web Apps).
+- [JavaScript Fight Club](https://jsfight.club/) \[FREE\]: Program your army of knigts to win epic battles against other players.
 
 
 ## HTML
@@ -39,9 +40,15 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 - [Oh my git!](https://ohmygit.org/) \[FREE\]: An open source game about learning Git!
 
+
 ## Ruby
 
-- [RubyWarrior](https://github.com/ryanb/ruby-warrior): \[FREE\]: Game written in Ruby for learning Ruby and artificial intelligence.
+- [RubyWarrior](https://github.com/ryanb/ruby-warrior) \[FREE\]: Game written in Ruby for learning Ruby and artificial intelligence.
+
+
+## Scala
+
+- [Scalatron](http://scalatron.github.io/) \[FREE\]: A free, open-source programming game in which bots, written in Scala, compete in a virtual arena for energy and survival.
 
 
 ## Regex
