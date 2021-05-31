@@ -71,5 +71,6 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 ## Other
 
+- [NAND Game](https://nandgame.com/) \[FREE\]: You are going to build a computer starting from basic components. A great way to learn about computer architectures.
 - [Rogue bit](https://store.steampowered.com/app/949790/Rogue_Bit/) \[PAID 💸\]: You play the game as a single bit of computer memory. You can invade other bytes around you and thus modify their values. A puzzle game that will make you truly understand and appreciate low level concepts like bitwise operations and ASCII tables.
 - [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/) \[PAID 💸\]: A game where you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, logic gates, and LCD screens.
