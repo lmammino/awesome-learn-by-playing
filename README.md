@@ -41,6 +41,11 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Oh my git!](https://ohmygit.org/) \[FREE\]: An open source game about learning Git!
 
 
+## Python
+
+- [Robot Rumble](https://robotrumble.org/) \[FREE\]: Code robots, win matches, rank up.
+
+
 ## Ruby
 
 - [RubyWarrior](https://github.com/ryanb/ruby-warrior) \[FREE\]: Game written in Ruby for learning Ruby and artificial intelligence.
