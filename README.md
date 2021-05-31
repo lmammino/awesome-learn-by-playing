@@ -21,7 +21,12 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 ## JavaScript
 
-- [Service Workies](https://serviceworkies.com/) \[PAID 💸\]: ...
+- [JS Robot](https://lab.reaal.me/jsrobot/) \[FREE\]: Help a tiny robot collecting coins and survive through various levels while learning the basics of JavaScript.
+- [Elevator Saga](https://play.elevatorsaga.com/) \[FREE\]: A beautiful (and increasingly difficult) game where your goal is to program elevators using JavaScript. Can you make the elevators efficiently move people through floors and avoid backlogs?
+- [WarriorJS](https://warriorjs.com/) \[FREE\]: Code your way through dungeons, prove your skills, and get hired.
+- [Untrusted](https://alexnisnevich.github.io/untrusted/) \[FREE\]: A text-based dungeon crawler where you progress with the aid of JavaScript.
+- [Code Monster](http://www.crunchzilla.com/code-monster) \[FREE\]: Learn the basic of JavaScript on the browser by helping a little monster.
+- [Service Workies](https://serviceworkies.com/) \[PAID 💸\]: Help Kolohe survive and defeat dragons as you learn the basics of PWAs (Progressive Web Apps).
 
 
 ## HTML
