@@ -34,6 +34,11 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 ...
 
 
+## VIM
+
+- [VIM Adventures](https://vim-adventures.com/)  \[FREE\]: Learn VIM while playing a pixel art adventure game!
+
+
 ## Security
 
 ...
