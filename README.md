@@ -17,6 +17,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Flexbox froggy](http://flexboxfroggy.com/) \[FREE\]: A game where you help Froggy and friends by writing CSS code (especially using CSS flexbox)!
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) \[PAID 💸\]: A beautifully illustrated game where you have to survive the zombie apocalypse by mastering CSS flexbox skills!
 - [Grid Critters](https://gridcritters.com/) \[PAID 💸\]: Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
+- [Hex Invaders](http://www.hexinvaders.com/) \[FREE\]: Learn about HEX colors by shooting off aliens!
 
 
 ## JavaScript
