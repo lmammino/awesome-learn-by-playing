@@ -35,10 +35,38 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Emmet Game](https://ahndohun.github.io/emmet-game/) \[FREE\]: Learn about CSS selectors and HTML in this guess game that uses [Emmet](https://docs.emmet.io/)
 
 
+## Git
+
+- [Oh my git!](https://ohmygit.org/) \[FREE\]: An open source game about learning Git!
+
+## Ruby
+
+- [RubyWarrior](https://github.com/ryanb/ruby-warrior): \[FREE\]: Game written in Ruby for learning Ruby and artificial intelligence.
+
+
+## Regex
+
+- [regxkcd](https://mekagem.itch.io/regxkcd): \[FREE\]: Battle a powerful artificial intelligence in a game of regular expressions!
+
+
 ## VIM
 
 - [VIM Adventures](https://vim-adventures.com/)  \[FREE\]: Learn VIM while playing a pixel art adventure game!
 
 
-## Security
+## Security & Hacking
+
 - [Tryhackme](https://tryhackme.com/) \[FREE WITH PREMIUM TIER\]: Learn all things security (pentesting, web security, system hardening) by completing hacking missions!
+- [Hacker 101 Capture The Flag](https://ctf.hacker101.com/) \[FREE\]: game designed to let you learn to hack in a safe, rewarding environment.
+- [Hack the box](https://www.hackthebox.eu/) \[FREE\]: a dynamically growing hacking community and take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience!
+
+
+## For kids
+
+- [Cubetto PRIMO](https://www.primotoys.com/) \[PAID 💸\]: Award winning physical game that help kids age 3+ to learn to code.
+
+
+## Other
+
+- [Rogue bit](https://store.steampowered.com/app/949790/Rogue_Bit/) \[PAID 💸\]: You play the game as a single bit of computer memory. You can invade other bytes around you and thus modify their values. A puzzle game that will make you truly understand and appreciate low level concepts like bitwise operations and ASCII tables.
+- [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/) \[PAID 💸\]: A game where you build circuits using a variety of components from different manufacturers, like microcontrollers, memory, logic gates, and LCD screens.
