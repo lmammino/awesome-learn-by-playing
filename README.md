@@ -46,7 +46,10 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 ## Regex
 
-- [regxkcd](https://mekagem.itch.io/regxkcd): \[FREE\]: Battle a powerful artificial intelligence in a game of regular expressions!
+- [regxkcd](https://mekagem.itch.io/regxkcd) \[FREE\]: Battle a powerful artificial intelligence in a game of regular expressions!
+- [Regex Cross word](https://regexcrossword.com/) \[FREE\]: Solve crossword where your only hint are regexes!
+- [Regex Golf](https://alf.nu/RegexGolf) \[FREE\]: Warm yourself up, a regex at the time!
+- [RegHEX](https://rampion.github.io/RegHex/) \[FREE\]: An hexagonal regex crossword. Only for the brave!
 
 
 ## VIM
