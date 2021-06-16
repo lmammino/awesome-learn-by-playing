@@ -80,6 +80,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 ## For kids
 
 - [Cubetto PRIMO](https://www.primotoys.com/) \[PAID 💸\]: Award winning physical game that help kids age 3+ to learn to code.
+- [Potato Pirates Coding Card Game](https://potatopirates.game/): Learn coding through card game
 
 
 ## Other
