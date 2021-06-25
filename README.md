@@ -29,6 +29,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Code Monster](http://www.crunchzilla.com/code-monster) \[FREE\]: Learn the basic of JavaScript on the browser by helping a little monster.
 - [Service Workies](https://serviceworkies.com/) \[PAID 💸\]: Help Kolohe survive and defeat dragons as you learn the basics of PWAs (Progressive Web Apps).
 - [JavaScript Fight Club](https://jsfight.club/) \[FREE\]: Program your army of knigts to win epic battles against other players.
+- [Screeps](https://screeps.com/) \[PAID 💸\]: An open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript.
 
 
 ## HTML
