@@ -39,6 +39,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 ## Git
 
+- [Learn Git Branching](https://learngitbranching.js.org/) \[FREE\]: A visual and interactive way to learn Git on the web
 - [Oh my git!](https://ohmygit.org/) \[FREE\]: An open source game about learning Git!
 
 
@@ -93,3 +94,4 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Colobot](https://colobot.info/) \[FREE\]: a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java. Your mission is to find a new planet to live and survive. You can save the humanity and get programming skills!
 - [MHRD](https://store.steampowered.com/app/576030/MHRD/) \[PAID 💸\]: A hardware design game, in which you design various hardware circuits in a hardware description language.
 - [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) \[PAID 💸\]: uses the concept of a corporate office worker assigned to perform tasks that involve moving objects between an inbox, an outbox, and to and from storage areas as a metaphor for assembly language concepts. 
+- [SQL Murder Mystery](https://mystery.knightlab.com/) \[FREE\]: Solve a murder mystery with your SQL skills.
