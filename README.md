@@ -30,7 +30,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Service Workies](https://serviceworkies.com/) \[PAID 💸\]: Help Kolohe survive and defeat dragons as you learn the basics of PWAs (Progressive Web Apps).
 - [JavaScript Fight Club](https://jsfight.club/) \[FREE\]: Program your army of knigts to win epic battles against other players.
 - [Screeps](https://screeps.com/) \[PAID 💸\]: An open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript.
-
+- [yare.io](https://yare.io/) \[FREE\]: Real-Time Strategy game where you control your units by writing JavaScript code.
 
 ## HTML
 
