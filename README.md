@@ -74,9 +74,10 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 ## Security & Hacking
 
 - [Tryhackme](https://tryhackme.com/) \[FREE WITH PREMIUM TIER\]: Learn all things security (pentesting, web security, system hardening) by completing hacking missions!
-- [Hacker 101 Capture The Flag](https://ctf.hacker101.com/) \[FREE\]: game designed to let you learn to hack in a safe, rewarding environment.
-- [Hack the box](https://www.hackthebox.eu/) \[FREE\]: a dynamically growing hacking community and take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience!
+- [Hacker 101 Capture The Flag](https://ctf.hacker101.com/) \[FREE\]: Game designed to let you learn to hack in a safe, rewarding environment.
+- [Hack the box](https://www.hackthebox.eu/) \[FREE\]: A dynamically growing hacking community and take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience!
 - [Embedded Security Capture The Flag](https://microcorruption.com/) \[FREE\]: You've been given access to a device that controls a lock. Your job: defeat the lock by exploiting bugs in the device's code.
+- [Cypher](https://store.steampowered.com/app/746710/Cypher/) \[PAID 💸\]: Visit a cryptography museum and solve the cryptographic challenges.
 
 
 ## For kids
