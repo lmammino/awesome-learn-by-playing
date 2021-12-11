@@ -96,3 +96,4 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [MHRD](https://store.steampowered.com/app/576030/MHRD/) \[PAID 💸\]: A hardware design game, in which you design various hardware circuits in a hardware description language.
 - [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) \[PAID 💸\]: uses the concept of a corporate office worker assigned to perform tasks that involve moving objects between an inbox, an outbox, and to and from storage areas as a metaphor for assembly language concepts. 
 - [SQL Murder Mystery](https://mystery.knightlab.com/) \[FREE\]: Solve a murder mystery with your SQL skills.
+- [While True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) \[PAID 💸\]: Play and discover how Machine Learning works.
