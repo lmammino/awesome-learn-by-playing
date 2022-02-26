@@ -99,3 +99,15 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [SQL Murder Mystery](https://mystery.knightlab.com/) \[FREE\]: Solve a murder mystery with your SQL skills.
 - [While True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) \[PAID 💸\]: Play and discover how Machine Learning works.
 - [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) \[PAID 💸\]: learn about logic and cpu architecture with puzzles.
+
+
+## Contributing
+
+Everyone is very welcome to contribute to this project.
+You can contribute just by submitting bugs or suggesting improvements by
+[opening an issue on GitHub](https://github.com/lmammino/awesome-learn-by-playing/issues).
+
+
+## License
+
+Licensed under [MIT License](LICENSE). © Luciano Mammino.
