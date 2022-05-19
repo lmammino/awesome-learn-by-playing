@@ -10,7 +10,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 
 ## CSS
 
-- [CSS Battle](https://cssbattle.dev/) \[FREE\]: Test your CSS skills by solving coding challenges. Can you re-create in pure CSS all the pictures presented to you? How close can you get? 
+- [CSS Battle](https://cssbattle.dev/) \[FREE\]: Test your CSS skills by solving coding challenges. Can you re-create in pure CSS all the pictures presented to you? How close can you get?
 - [CSS Dinner](https://flukeout.github.io/) \[FREE\]: Solve challenges by arranging dishes and food and learn about CSS selectors.
 - [Grid Garder](https://cssgridgarden.com/) \[FREE\]: Write CSS code to grow your carrot garden while learning about CSS grid.
 - [Flexbox defense](http://www.flexboxdefense.com/) \[FREE\]: Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS (and flexbox)!
@@ -19,7 +19,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Grid Critters](https://gridcritters.com/) \[PAID 💸\]: Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
 - [Hex Invaders](http://www.hexinvaders.com/) \[FREE\]: Learn about HEX colors by shooting off aliens!
 - [CSS Speedrun](https://css-speedrun.netlify.app/) \[FREE\]: Test your skills with CSS selectors!
-
+- [Perfect Paragraph](https://betterwebtype.com/triangle/) \[FREE\]: A web typography learning game.
 
 ## JavaScript
 
@@ -95,7 +95,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Box256](http://box-256.com/) \[FREE\]: a 8-bit fantasy computer, with 256 bytes of memory, 16 color 16x16 display. It is also a programming game, where the player tries to pass the graphics tests and optimize the code to perfection.
 - [Colobot](https://colobot.info/) \[FREE\]: a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java. Your mission is to find a new planet to live and survive. You can save the humanity and get programming skills!
 - [MHRD](https://store.steampowered.com/app/576030/MHRD/) \[PAID 💸\]: A hardware design game, in which you design various hardware circuits in a hardware description language.
-- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) \[PAID 💸\]: uses the concept of a corporate office worker assigned to perform tasks that involve moving objects between an inbox, an outbox, and to and from storage areas as a metaphor for assembly language concepts. 
+- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) \[PAID 💸\]: uses the concept of a corporate office worker assigned to perform tasks that involve moving objects between an inbox, an outbox, and to and from storage areas as a metaphor for assembly language concepts.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) \[FREE\]: Solve a murder mystery with your SQL skills.
 - [While True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) \[PAID 💸\]: Play and discover how Machine Learning works.
 - [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) \[PAID 💸\]: learn about logic and cpu architecture with puzzles.
