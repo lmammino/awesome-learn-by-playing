@@ -20,6 +20,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Hex Invaders](http://www.hexinvaders.com/) \[FREE\]: Learn about HEX colors by shooting off aliens!
 - [CSS Speedrun](https://css-speedrun.netlify.app/) \[FREE\]: Test your skills with CSS selectors!
 - [Perfect Paragraph](https://betterwebtype.com/triangle/) \[FREE\]: A web typography learning game.
+- [Kerntype](http://type.method.ac/) \[FREE\]: Train your eyes to become a pro at kerning with this fun kerning game.
 
 ## JavaScript
 
