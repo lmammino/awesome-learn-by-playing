@@ -45,6 +45,11 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Oh my git!](https://ohmygit.org/) \[FREE\]: An open source game about learning Git!
 
 
+## SQL
+
+- [SQL Noir](https://www.sqlnoir.com/) \[FREE\]: Solve mysteries through SQL.
+
+
 ## Python
 
 - [Robot Rumble](https://robotrumble.org/) \[FREE\]: Code robots, win matches, rank up.
