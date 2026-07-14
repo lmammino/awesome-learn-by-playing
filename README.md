@@ -105,6 +105,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) \[PAID 💸\]: uses the concept of a corporate office worker assigned to perform tasks that involve moving objects between an inbox, an outbox, and to and from storage areas as a metaphor for assembly language concepts.
 - [While True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) \[PAID 💸\]: Play and discover how Machine Learning works.
 - [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) \[PAID 💸\]: learn about logic and cpu architecture with puzzles.
+- [digiwleea](https://digiwleea.wleeaf.dev/) \[FREE WITH PREMIUM TIER\]: Build a working computer starting from single transistors: wire NMOS/PMOS switches into logic gates, gates into adders and memory, and level up all the way to an 8-bit CPU, entirely in your browser.
 
 
 ## Contributing
