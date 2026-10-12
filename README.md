@@ -105,6 +105,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) \[PAID 💸\]: uses the concept of a corporate office worker assigned to perform tasks that involve moving objects between an inbox, an outbox, and to and from storage areas as a metaphor for assembly language concepts.
 - [While True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) \[PAID 💸\]: Play and discover how Machine Learning works.
 - [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) \[PAID 💸\]: learn about logic and cpu architecture with puzzles.
+- [Certopolis](https://certopolis.com/?src=awesome) \[FREE\]: A city-builder for IT-certification study. Each exam domain is a district and every right answer to a real practice question (AWS, Terraform, Security+, Claude) raises a building; wrong answers bring the question back later. Every question cites the vendor documentation it was written from.
 
 
 ## Contributing
