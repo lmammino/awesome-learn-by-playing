@@ -21,6 +21,7 @@ Learning new things doesn't have to have to be boring, especially in tech! This 
 - [CSS Speedrun](https://css-speedrun.netlify.app/) \[FREE\]: Test your skills with CSS selectors!
 - [Perfect Paragraph](https://betterwebtype.com/triangle/) \[FREE\]: A web typography learning game.
 - [Kerntype](http://type.method.ac/) \[FREE\]: Train your eyes to become a pro at kerning with this fun kerning game.
+- [Playhire](https://www.playhire.online/) \[FREE\]: Free, no-sign-up browser games for coding interview prep, covering CSS Flexbox and Grid as well as DSA, JavaScript, OOP and system design.
 
 ## JavaScript
 
